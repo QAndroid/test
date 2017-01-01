@@ -1,12 +1,11 @@
-package com.qproject.test;
+package com.qandroid.test;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
-import com.qproject.test.leakcanary.LeakCanaryActivity;
-import com.qproject.test.R;
+import com.qandroid.test.leakcanary.LeakCanaryActivity;
 
 public class TestActivity extends AppCompatActivity {
     @Override

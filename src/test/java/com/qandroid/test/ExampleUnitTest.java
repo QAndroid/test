@@ -1,4 +1,4 @@
-package com.qproject.test;
+package com.qandroid.test;
 
 import org.junit.Test;
 

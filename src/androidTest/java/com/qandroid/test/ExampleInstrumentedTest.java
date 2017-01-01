@@ -1,4 +1,4 @@
-package com.qproject.test;
+package com.qandroid.test;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

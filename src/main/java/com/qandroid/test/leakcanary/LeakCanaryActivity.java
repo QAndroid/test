@@ -1,10 +1,10 @@
-package com.qproject.test.leakcanary;
+package com.qandroid.test.leakcanary;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.qproject.test.R;
-import com.qproject.test.TestManager;
+import com.qandroid.test.R;
+import com.qandroid.test.TestManager;
 
 public class LeakCanaryActivity extends AppCompatActivity {
 
