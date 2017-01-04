@@ -9,15 +9,9 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.qandroid.test.leakcanary.LeakCanaryActivity">
-
     <TextView
         android:id="@+id/textview1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="LeakCanaryActivity"/>
-
-    <fragment
-        android:name="com.qandroid.test.leakcanary.LeakCanaryFragment"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"/>
+        android:text="LeakCanaryFragment"/>
 </RelativeLayout>
