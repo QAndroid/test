@@ -7,6 +7,8 @@ import android.content.Context;
  */
 public class TestManager {
     private static TestManager instance;
+    //用于测试
+    @SuppressWarnings("FieldCanBeLocal")
     private Context context;
 
     /**
