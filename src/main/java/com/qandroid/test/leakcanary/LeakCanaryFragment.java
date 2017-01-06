@@ -2,14 +2,12 @@ package com.qandroid.test.leakcanary;
 
 import android.os.Bundle;
 import android.os.SystemClock;
-import android.support.annotation.Nullable;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
 import com.qandroid.common.QBaseFragment;
 import com.qandroid.test.R;
-import com.qandroid.test.TestManager;
 
 /**
  * Created by chengxiang.peng on 2017/1/3.
